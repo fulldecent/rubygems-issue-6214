@@ -1,0 +1,1 @@
+# rubygems-issue-6214
